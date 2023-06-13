@@ -1,6 +1,6 @@
-# ALFA
+# Delta
 
 | Alfa | Bravo  | Charlie | Delta |
 | --------- | --------- | --------- | --------- |
-| Juan | Ezequiel | Gabriela| Nieves |
-| Venezuela | Venezuela | Venezuela | Venezuela | 
+| Carlos | Andres | Ana| Juan |
+| Venezuela, Caracas | Venezuela, Maracaibo | Venezuela, Caracas | Venezuela, Valencia | 
