@@ -1,4 +1,4 @@
-# ALFA
+# Delta
 
 | Alfa | Bravo  | Charlie | Delta |
 | --------- | --------- | --------- | --------- |
